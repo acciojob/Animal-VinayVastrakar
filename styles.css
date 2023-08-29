@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.images{
+	border:1px sold black;
+	border-radius:10px;
+	width:150px;
+}
+
+#animal-photos{
+	background-color:darkgray;
+	color:white;
+	text-align:center;
+	display:flex;
+	flex-wrap:wrap;
+}
+#photo-heading{
+	text-align:center;
+}
